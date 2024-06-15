@@ -2,3 +2,17 @@
 body {
     font-family: "Poppins", sans-serif;
 }
+
+/* Makes the image on header smaller */
+.sm_img{
+    align-content:flex-start;
+    transform: rotate(20deg);
+    width:40%;
+    height: 40%;
+}
+
+/* Adds BG Color to footer*/
+.sm{
+    background-color: #F8F9FA;
+    box-shadow: 30px 30px #888888;
+}
